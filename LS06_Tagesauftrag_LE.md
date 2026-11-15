@@ -282,7 +282,10 @@ Benutzt die Satzanfänge.
 
 🆘 **Hilfe:** Denkt an das Spiel «Menschliche if-Kette» aus der Klasse. Jede Person war eine Raute.
 
+<img width="547" height="772" alt="Screenshot 2026-11-15 182648" src="https://github.com/user-attachments/assets/5fc81834-7ee3-4d2b-a14b-b11ad9e08924" />
+
 ---
+
 
 ## Schritt 4 · Programm erweitern
 
@@ -397,13 +400,13 @@ Console.WriteLine("Bewertung: " + bewertung);
 
 | Menge | Rabatt in % | SOLL Endtotal | IST Endtotal (genau wie am Bildschirm) | OK? |
 |---|---|---|---|---|
-| 0 | – | Fehlermeldung | | ☐ |
-| 1 | 0%| 2.50| | ☐ |
-| 2 | 0%| 5.00| | ☐ |
-| 3 | 10%| 6.75| | ☐ |
-| 4 | 10%| 9.00| | ☐ |
-| 5 | 20%| 10.00| | ☐ |
-| 6 | 20%| 12.00| | ☐ |
+| 0 | – | Fehlermeldung | | x |
+| 1 | 0%| 2.50| 2.50 | x |
+| 2 | 0%| 5.00| 5.00 | x |
+| 3 | 10%| 6.75| 6.75 | x |
+| 4 | 10%| 9.00| 9.00 | x |
+| 5 | 20%| 10.00| 10.00 | x |
+| 6 | 20%| 12.00| 12.00 | x |
 
 Hattest du einen Fehler? Schreibe auf, was falsch war:
 
@@ -487,6 +490,8 @@ git push
 ---
 
 ## Schritt 9 · Lernjournal 06
+
+### Lernjournal ist auf -> [Lernjournal](https://github.com/Raf-lu/IPT/blob/main/Lernjournal.md)
 
 **Zeit:** 10 Min. · 👤 allein · Schreibe in ganzen Sätzen. Benutze die Satzanfänge.
 
